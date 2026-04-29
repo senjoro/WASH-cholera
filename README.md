@@ -20,7 +20,7 @@ The study utilizes a **Negative Binomial Generalized Additive Model (GAM)** to:
 
 ## Usage
 1. Load your historical dataset as `cholera_data`.
-2. Run `vc_min.R` to train the GAM model and execute the 2030 target-seeking simulation.
+2. Run `wash.R` to train the GAM model and execute the 2030 target-seeking simulation.
 3. The script will output the projected cases for various acceleration rates and visualize the pathway to elimination.
 
 ## Citation
